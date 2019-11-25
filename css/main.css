@@ -15,3 +15,12 @@
   height: 344px;
   max-width: 350px;
 }
+
+.button-right {
+  padding: 6px;
+  margin-bottom: 14px;
+}
+
+.h2-right {
+  margin-bottom: 14px;
+}

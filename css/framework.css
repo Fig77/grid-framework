@@ -298,9 +298,63 @@
 }
 
 /*sizing*/
+
 .w-100 {
   width: 100%;
 }
+
+/* text-sizing */
+
+.t-lg-1 {
+  font-size: 1rem;
+}
+
+.t-lg-1-5 {
+  font-size: 1.5rem;
+}
+
+.t-lg-2 {
+  font-size: 2rem;
+}
+
+.t-lg-3 {
+  font-size: 3rem;
+}
+
+/* positioning */
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+/* Elements */
+
+.button {
+  color: #1da1f2;
+  background-color: #fafafa;
+  border-radius: 100px;
+  border: 1px solid #1da1f2;
+  font-weight: bold;
+  padding: 12px;
+}
+
+.button-inverse {
+  color: #fafafa;
+  background-color: #1da1f2;
+}
+
 
 @media screen and (min-width: 720px and max-width: 1024px) {
   .col-md-1 {
