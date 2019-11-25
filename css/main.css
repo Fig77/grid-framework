@@ -1,0 +1,6 @@
+/* Grid layout */
+
+.grid-template-default {
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 1%;
+}
