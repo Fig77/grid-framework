@@ -195,6 +195,10 @@
   align-self: flex-start;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 /* Styling - Colors */
 
 /* background */
@@ -343,7 +347,7 @@
 
 .button {
   color: #1da1f2;
-  background-color: #fafafa;
+  background: #fafafa;
   border-radius: 100px;
   border: 1px solid #1da1f2;
   font-weight: bold;
@@ -352,9 +356,17 @@
 
 .button-inverse {
   color: #fafafa;
-  background-color: #1da1f2;
+  background: #1da1f2;
 }
 
+.button:hover{
+  cursor: pointer;
+  filter: brightness(95%);
+}
+
+.button-inverse:hover {
+  filter: brightness(75%);
+}
 
 @media screen and (min-width: 720px and max-width: 1024px) {
   .col-md-1 {
@@ -454,5 +466,13 @@
 
   .col-sm-12 {
     grid-column: span 12;
+  }
+
+  .order-sm-1 {
+    order: 1;
+  }
+
+  .order-sm-2 {
+    order: 2;
   }
 }

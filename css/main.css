@@ -1,14 +1,28 @@
 .main-twitter {
-	height: 93vh;
+	height: 600px;
 }
 
 .content-left{
+	position: relative;
 	box-sizing: border-box;
 	height: 264px;
 	font-size: 20px;
 	font-weight: bold;
 	padding-top: 48px;
 	padding-bottom: 48px;
+	z-index: 3;
+}
+
+.bird-container {
+	position: relative;
+	overflow: hidden;
+}
+
+.bird-svg {
+	position: absolute;
+	height: 155%;
+	width: auto;
+	left: calc(66.68px * 155%);
 }
 
 .content-right {
@@ -23,4 +37,24 @@
 
 .h2-right {
   margin-bottom: 14px;
+}
+
+.link-footer:link {
+	color: #3a3d40;
+}
+
+.link-footer:visited {
+	color: #3a3d40;
+}
+
+.link-footer:hover {
+	text-decoration: underline;
+}
+
+.ul-footer {
+	list-style-type: none;
+}
+
+.ul-footer li {
+	margin-right: 8px;
 }
