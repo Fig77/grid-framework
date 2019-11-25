@@ -187,6 +187,14 @@
   align-items: center;
 }
 
+.align-self-end {
+  align-self: flex-end;
+}
+
+.align-self-start {
+  align-self: flex-start;
+}
+
 /* Styling - Colors */
 
 /* background */
