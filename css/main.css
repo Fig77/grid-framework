@@ -1,3 +1,12 @@
 .main-twitter {
 	height: 93vh;
 }
+
+.content-left{
+	box-sizing: border-box;
+	height: 264px;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 48px;
+	padding-bottom: 48px;
+}

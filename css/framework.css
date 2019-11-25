@@ -289,6 +289,11 @@
   color: #cabf45;
 }
 
+/*sizing*/
+.w-100 {
+  width: 100%;
+}
+
 @media screen and (min-width: 720px and max-width: 1024px) {
   .col-md-1 {
     grid-column: span 1;
