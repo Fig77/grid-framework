@@ -130,8 +130,8 @@
 
 /* Styling - Colors */
 
-.white {
-  color: #fafafa;
+.bg-white {
+  background-color: #fafafa;
 }
 
 .l-white {
@@ -154,8 +154,8 @@
   color: #000;
 }
 
-.blue {
-  color: #1da1f2;
+.bg-blue {
+  background-color: #1da1f2;
 }
 
 .l-blue {
