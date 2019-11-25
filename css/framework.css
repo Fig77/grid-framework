@@ -130,8 +130,60 @@
 
 /* Styling - Colors */
 
+/* background */
+
 .bg-white {
   background-color: #fafafa;
+}
+
+.bg-l-white {
+  background-color: #fff;
+}
+
+.bg-d-white {
+  background-color: #f5f5f5;
+}
+
+.bg-black {
+  background-color: #14171a;
+}
+
+.bg-l-black {
+  background-color: #3a3d40;
+}
+
+.bg-d-black {
+  background-color: #000;
+}
+
+.bg-blue {
+  background-color: #1da1f2;
+}
+
+.bg-l-blue {
+  background-color: #6cd2ff;
+}
+
+.bg-d-blue {
+  background-color: #0073bf;
+}
+
+.bg-yellow {
+  background-color: #fff176;
+}
+
+.bg-l-yellow {
+  background-color: #ffffa8;
+}
+
+.bg-d-yellow {
+  background-color: #cabf45;
+}
+
+/* text-color */
+
+.white {
+  color: #fafafa;
 }
 
 .l-white {
@@ -154,8 +206,8 @@
   color: #000;
 }
 
-.bg-blue {
-  background-color: #1da1f2;
+.blue {
+  color: #1da1f2;
 }
 
 .l-blue {
