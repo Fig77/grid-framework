@@ -1,28 +1,28 @@
 .main-twitter {
-	height: 600px;
+  height: 600px;
 }
 
-.content-left{
-	position: relative;
-	box-sizing: border-box;
-	height: 264px;
-	font-size: 20px;
-	font-weight: bold;
-	padding-top: 48px;
-	padding-bottom: 48px;
-	z-index: 3;
+.content-left {
+  position: relative;
+  box-sizing: border-box;
+  height: 264px;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  z-index: 3;
 }
 
 .bird-container {
-	position: relative;
-	overflow: hidden;
+  position: relative;
+  overflow: hidden;
 }
 
 .bird-svg {
-	position: absolute;
-	height: 155%;
-	width: auto;
-	margin-right: -50%;
+  position: absolute;
+  height: 155%;
+  width: auto;
+  margin-right: -50%;
 }
 
 .content-right {
@@ -40,22 +40,22 @@
 }
 
 .link-footer:link {
-	color: #aab8c2;
+  color: #aab8c2;
 }
 
 .link-footer:visited {
-	color: #aab8c2;
+  color: #aab8c2;
 }
 
 .link-footer:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 .ul-footer {
-	list-style-type: none;
+  list-style-type: none;
 }
 
 .ul-footer li {
-	margin-right: 18px;
+  margin-right: 18px;
   margin-top: 10px;
 }
