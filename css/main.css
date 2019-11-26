@@ -22,7 +22,7 @@
 	position: absolute;
 	height: 155%;
 	width: auto;
-	left: calc(66.68px * 155%);
+	margin-right: -50%;
 }
 
 .content-right {
