@@ -40,11 +40,11 @@
 }
 
 .link-footer:link {
-	color: #3a3d40;
+	color: #aab8c2;
 }
 
 .link-footer:visited {
-	color: #3a3d40;
+	color: #aab8c2;
 }
 
 .link-footer:hover {
@@ -56,5 +56,6 @@
 }
 
 .ul-footer li {
-	margin-right: 8px;
+	margin-right: 18px;
+  margin-top: 10px;
 }
