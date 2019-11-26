@@ -103,4 +103,4 @@ Project Link: [Project repo](https://github.com/Fig77/grid-framework)
 [contributors-url]: https://github.com/Fig77/grid-framework/graphs/contributors
 [issues-shield]: https://img.shields.io/badge/issues-0-%2300ff00
 [issues-url]: https://github.com/Fig77/grid-framework/issues
-[product-screenshot]: assets/product_ss.jpg
+[product-screenshot]: img/product_ss.jpg
